@@ -1,3 +1,3 @@
 # DevCamp
 
-par Timothéé, Thibault, Edan, Enzo
+par Timothée, Thibault, Edan, Enzo
