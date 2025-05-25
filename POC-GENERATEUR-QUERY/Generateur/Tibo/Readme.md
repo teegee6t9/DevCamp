@@ -1,11 +1,13 @@
 # Preuve de Concept — Générateur de Géocaches (Fichier dans Répertoire)
 
 
-##Liens page ajouter/editer/supprimer :
+## Liens page ajouter/editer/supprimer :
 
-[Ajouter](http://172.105.106.183/service.geocache/generateur/ajouter-geocache.html)
-[Editer](http://172.105.106.183/service.geocache/generateur/editer-geocache.html)
-[Supprimer](http://172.105.106.183/service.geocache/generateur/supprimer-geocache.html)
+- [Ajouter](http://172.105.106.183/service.geocache/generateur/ajouter-geocache.html)
+
+- [Editer](http://172.105.106.183/service.geocache/generateur/editer-geocache.html)
+
+- [Supprimer](http://172.105.106.183/service.geocache/generateur/supprimer-geocache.html)
 
 
 Ce projet démontre comment utiliser un répertoire de fichiers comme source de données dans une application web, en construisant une API REST avec Node.js et Express. Les géocaches sont stockées dans un fichier local `data/geocaches.json`, manipulé directement en lecture et écriture.
